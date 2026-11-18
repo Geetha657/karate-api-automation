@@ -1,3 +1,4 @@
+[![Karate API Automation Tests](https://github.com/Geetha657/karate-api-automation/actions/workflows/karate-tests.yml/badge.svg)](https://github.com/Geetha657/karate-api-automation/actions/workflows/karate-tests.yml)
 
 # Karate API Automation Framework
 
